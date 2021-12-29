@@ -1,6 +1,7 @@
 // https://sites.google.com/stonybrook.edu/arduinoble/
-// https://www.youtube.com/watch?v=qFbfLk-jUd4
+// https://www.youtube.com/watch?v=qFbfLk-jUd4 - His instructions to use 0/1 broke USB upload w/ avrdude
 // https://www.amazon.com/gp/product/B01DG61YRM - Soldered m/f to pins 9/13 for TX/RX on HM-10: https://www.amazon.com/gp/product/B06WGZB2N4
+
 
 #include <AFMotor.h>
 #include <SoftwareSerial.h>
